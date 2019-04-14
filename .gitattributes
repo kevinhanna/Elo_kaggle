@@ -1,2 +1,3 @@
 *.csv binary
 *.pkl binary
+*.txt -crlf
